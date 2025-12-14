@@ -1,0 +1,51 @@
+# ----------------------------
+# Core Math & Geometry
+# ----------------------------
+numpy
+scipy
+shapely
+
+# ----------------------------
+# 2D Visualization / Canvas
+# ----------------------------
+matplotlib
+svgwrite
+pillow
+
+# ----------------------------
+# Interactive Graphics (Figma-like feel)
+# ----------------------------
+pyglet
+pygame
+
+# ----------------------------
+# Graphs & System Connections
+# ----------------------------
+networkx
+
+# ----------------------------
+# Data & Serialization
+# ----------------------------
+pydantic
+orjson
+
+# ----------------------------
+# Dev / Utilities
+# ----------------------------
+rich
+loguru
+tqdm
+
+# ----------------------------
+# Testing
+# ----------------------------
+pytest
+
+# ----------------------------
+# Optional / Future (commented)
+# ----------------------------
+# pyvista        # 3D visualization
+# trimesh        # Mesh geometry
+# dearpygui      # GUI canvas (very Figma-like)
+# fastapi        # Backend API (later)
+# uvicorn        # API server
